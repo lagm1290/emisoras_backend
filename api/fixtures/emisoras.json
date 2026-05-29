@@ -1,0 +1,1003 @@
+[
+  {
+    "model": "api.emisora",
+    "pk": 1,
+    "fields": {
+      "titulo": "Radio Tiempo Barranquilla",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Barranquilla",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BARRANQUILLAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_BARRANQUILLAAAC",
+      "orden": 5001
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 2,
+    "fields": {
+      "titulo": "Radio Tiempo Cali",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Cali",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CALIAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_CALIAAC",
+      "orden": 5002
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 3,
+    "fields": {
+      "titulo": "Radio Tiempo Cartagena",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Cartagena",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_CARTAGENAAAC",
+      "orden": 5003
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 4,
+    "fields": {
+      "titulo": "Radio Tiempo Medellín",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Medellín",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_MEDELLINAAC",
+      "orden": 5004
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 5,
+    "fields": {
+      "titulo": "Radio Tiempo Montería",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Montería",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MONTERIAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_MONTERIAAAC",
+      "orden": 5005
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 6,
+    "fields": {
+      "titulo": "Radio Tiempo Sincelejo",
+      "cadena": "Radio Tiempo",
+      "ciudad": "Sincelejo",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SINCELEJOAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RT_SINCELEJOAAC",
+      "orden": 5006
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 7,
+    "fields": {
+      "titulo": "Mix Radio Bogotá",
+      "cadena": "Mix Radio",
+      "ciudad": "Bogotá",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BOGOTAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_BOGOTAAAC",
+      "orden": 4007
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 8,
+    "fields": {
+      "titulo": "Mix Radio Barranquilla",
+      "cadena": "Mix Radio",
+      "ciudad": "Barranquilla",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_BARRANQUILLAAAC",
+      "orden": 4008
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 9,
+    "fields": {
+      "titulo": "Mix Radio Cali",
+      "cadena": "Mix Radio",
+      "ciudad": "Cali",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_CALIAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_CALIAAC",
+      "orden": 4009
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 10,
+    "fields": {
+      "titulo": "Mix Radio Medellín",
+      "cadena": "Mix Radio",
+      "ciudad": "Medellín",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_MEDELLINAAC",
+      "orden": 4010
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 11,
+    "fields": {
+      "titulo": "Mix Radio Manizales",
+      "cadena": "Mix Radio",
+      "ciudad": "Manizales",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MANIZALESAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_MANIZALESAAC",
+      "orden": 4011
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 12,
+    "fields": {
+      "titulo": "Mix Radio Valledupar",
+      "cadena": "Mix Radio",
+      "ciudad": "Valledupar",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_VALLEDUPARAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_VALLEDUPARAAC",
+      "orden": 4012
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 13,
+    "fields": {
+      "titulo": "Mix Radio Neiva",
+      "cadena": "Mix Radio",
+      "ciudad": "Neiva",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_NEIVAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "MIX_NEIVAAAC",
+      "orden": 4013
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 14,
+    "fields": {
+      "titulo": "Olímpica Stereo Armenia",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Armenia",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_ARMENIAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_ARMENIAAAC",
+      "orden": 14
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 15,
+    "fields": {
+      "titulo": "Olímpica Stereo Barranquilla",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Barranquilla",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_BARRANQUILLAAAC",
+      "orden": 15
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 16,
+    "fields": {
+      "titulo": "Olímpica Stereo Bogotá",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Bogotá",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_BOGOTAAAC",
+      "orden": 16
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 17,
+    "fields": {
+      "titulo": "Olímpica Stereo Bucaramanga",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Bucaramanga",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_BUCARAMANGAAAC",
+      "orden": 17
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 18,
+    "fields": {
+      "titulo": "Olímpica Stereo Cali",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Cali",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_CALIAAC",
+      "orden": 18
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 19,
+    "fields": {
+      "titulo": "Olímpica Stereo Cartagena",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Cartagena",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CARTAGENAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_CARTAGENAAAC",
+      "orden": 19
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 20,
+    "fields": {
+      "titulo": "Olímpica Stereo Cúcuta",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Cúcuta",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CUCUTAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_CUCUTAAAC",
+      "orden": 20
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 21,
+    "fields": {
+      "titulo": "Olímpica Stereo Ibagué",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Ibagué",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_IBAGUEAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_IBAGUEAAC",
+      "orden": 21
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 22,
+    "fields": {
+      "titulo": "Olímpica Stereo Manizales",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Manizales",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MANIZALESAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_MANIZALESAAC",
+      "orden": 22
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 23,
+    "fields": {
+      "titulo": "Olímpica Stereo Medellín",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Medellín",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_MEDELLINAAC",
+      "orden": 23
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 24,
+    "fields": {
+      "titulo": "Olímpica Stereo Montería",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Montería",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_MONTERIAAAC",
+      "orden": 24
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 25,
+    "fields": {
+      "titulo": "Olímpica Stereo Neiva",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Neiva",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_NEIVAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_NEIVAAAC",
+      "orden": 25
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 26,
+    "fields": {
+      "titulo": "Olímpica Stereo Pereira",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Pereira",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_PEREIRAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_PEREIRAAAC",
+      "orden": 26
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 27,
+    "fields": {
+      "titulo": "Olímpica Stereo Sincelejo",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Sincelejo",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_SINCELEJOAAC",
+      "orden": 27
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 28,
+    "fields": {
+      "titulo": "Olímpica Stereo Valledupar",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Valledupar",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_VALLEDUPARAAC",
+      "orden": 28
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 29,
+    "fields": {
+      "titulo": "Olímpica Stereo Villavicencio",
+      "cadena": "Olímpica Stereo",
+      "ciudad": "Villavicencio",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VILLAVICENCIOAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "OLP_VILLAVICENCIOAAC",
+      "orden": 29
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 30,
+    "fields": {
+      "titulo": "La Reina Barranquilla",
+      "cadena": "La Reina",
+      "ciudad": "Barranquilla",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RNA_BARRANQUILLAAAC",
+      "orden": 8030
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 31,
+    "fields": {
+      "titulo": "La Reina Cartagena",
+      "cadena": "La Reina",
+      "ciudad": "Cartagena",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "RNA_CARTAGENAAAC",
+      "orden": 8031
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 32,
+    "fields": {
+      "titulo": "Emisora Atlántico Barranquilla",
+      "cadena": "Emisora Atlántico",
+      "ciudad": "Barranquilla",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLAAAC.aac?dist=oro_web",
+      "via": "streamtheworld",
+      "codename": "ATL_BARRANQUILLAAAC",
+      "orden": 9032
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 33,
+    "fields": {
+      "titulo": "Radio Uno 93.9 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Medellín",
+      "url": "https://radio.garden/api/ara/content/listen/HWbOZVPy/channel.mp3",
+      "via": "radio.garden",
+      "codename": "HWbOZVPy",
+      "orden": 2033
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 34,
+    "fields": {
+      "titulo": "Radio Uno 100.5 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Cali",
+      "url": "https://radio.garden/api/ara/content/listen/zUAa333w/channel.mp3",
+      "via": "radio.garden",
+      "codename": "zUAa333w",
+      "orden": 2034
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 35,
+    "fields": {
+      "titulo": "Radio Uno 95.6 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Barranquilla",
+      "url": "https://radio.garden/api/ara/content/listen/vgoD3VmQ/channel.mp3",
+      "via": "radio.garden",
+      "codename": "vgoD3VmQ",
+      "orden": 2035
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 36,
+    "fields": {
+      "titulo": "Radio Uno 102.1 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Tunja",
+      "url": "https://radio.garden/api/ara/content/listen/CDTPPC1P/channel.mp3",
+      "via": "radio.garden",
+      "codename": "CDTPPC1P",
+      "orden": 2036
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 37,
+    "fields": {
+      "titulo": "Radio Uno 88.3 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Ibagué",
+      "url": "https://radio.garden/api/ara/content/listen/fjmf4f3b/channel.mp3",
+      "via": "radio.garden",
+      "codename": "fjmf4f3b",
+      "orden": 2037
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 38,
+    "fields": {
+      "titulo": "Radio Uno 95.7 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Manizales",
+      "url": "https://radio.garden/api/ara/content/listen/3zV9sb6N/channel.mp3",
+      "via": "radio.garden",
+      "codename": "3zV9sb6N",
+      "orden": 2038
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 39,
+    "fields": {
+      "titulo": "Radio Uno 94.7 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "Pereira",
+      "url": "https://radio.garden/api/ara/content/listen/3vC0tKiW/channel.mp3",
+      "via": "radio.garden",
+      "codename": "3vC0tKiW",
+      "orden": 2039
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 40,
+    "fields": {
+      "titulo": "Radio Uno FM 94.1",
+      "cadena": "Radio Uno",
+      "ciudad": "Pasto",
+      "url": "https://radio.garden/api/ara/content/listen/8NmQwW6L/channel.mp3",
+      "via": "radio.garden",
+      "codename": "8NmQwW6L",
+      "orden": 2040
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 41,
+    "fields": {
+      "titulo": "Radio Uno FM 91.7",
+      "cadena": "Radio Uno",
+      "ciudad": "Cúcuta",
+      "url": "https://radio.garden/api/ara/content/listen/9Ve--KPD/channel.mp3",
+      "via": "radio.garden",
+      "codename": "9Ve--KPD",
+      "orden": 2041
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 42,
+    "fields": {
+      "titulo": "Radio Uno 97.3 FM",
+      "cadena": "Radio Uno",
+      "ciudad": "La Ceja",
+      "url": "https://radio.garden/api/ara/content/listen/9DdtPrz2/channel.mp3",
+      "via": "radio.garden",
+      "codename": "9DdtPrz2",
+      "orden": 2042
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 43,
+    "fields": {
+      "titulo": "Radio Uno FM 90.3",
+      "cadena": "Radio Uno",
+      "ciudad": "Neiva",
+      "url": "https://radio.garden/api/ara/content/listen/amC8Iaz_/channel.mp3",
+      "via": "radio.garden",
+      "codename": "amC8Iaz_",
+      "orden": 2043
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 44,
+    "fields": {
+      "titulo": "La FM 94.9",
+      "cadena": "La FM",
+      "ciudad": "Bogotá",
+      "url": "https://radio.garden/api/ara/content/listen/eYWZbkr7/channel.mp3",
+      "via": "radio.garden",
+      "codename": "eYWZbkr7",
+      "orden": 1044
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 45,
+    "fields": {
+      "titulo": "La FM 106.9",
+      "cadena": "La FM",
+      "ciudad": "Medellín",
+      "url": "https://radio.garden/api/ara/content/listen/XcSDCllq/channel.mp3",
+      "via": "radio.garden",
+      "codename": "XcSDCllq",
+      "orden": 1045
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 46,
+    "fields": {
+      "titulo": "La FM 98.0",
+      "cadena": "La FM",
+      "ciudad": "Cali",
+      "url": "https://radio.garden/api/ara/content/listen/5WueL1EE/channel.mp3",
+      "via": "radio.garden",
+      "codename": "5WueL1EE",
+      "orden": 1046
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 47,
+    "fields": {
+      "titulo": "La FM Tunja",
+      "cadena": "La FM",
+      "ciudad": "Tunja",
+      "url": "https://radio.garden/api/ara/content/listen/hCrUDJRo/channel.mp3",
+      "via": "radio.garden",
+      "codename": "hCrUDJRo",
+      "orden": 1047
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 48,
+    "fields": {
+      "titulo": "La FM Ibagué",
+      "cadena": "La FM",
+      "ciudad": "Ibagué",
+      "url": "https://radio.garden/api/ara/content/listen/t4hvETVX/channel.mp3",
+      "via": "radio.garden",
+      "codename": "t4hvETVX",
+      "orden": 1048
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 49,
+    "fields": {
+      "titulo": "La FM 99.7",
+      "cadena": "La FM",
+      "ciudad": "Manizales",
+      "url": "https://radio.garden/api/ara/content/listen/WIvRcKLe/channel.mp3",
+      "via": "radio.garden",
+      "codename": "WIvRcKLe",
+      "orden": 1049
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 50,
+    "fields": {
+      "titulo": "La FM 102.7",
+      "cadena": "La FM",
+      "ciudad": "Cúcuta",
+      "url": "https://radio.garden/api/ara/content/listen/7_kHIIKH/channel.mp3",
+      "via": "radio.garden",
+      "codename": "7_kHIIKH",
+      "orden": 1050
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 51,
+    "fields": {
+      "titulo": "La FM 99.7",
+      "cadena": "La FM",
+      "ciudad": "Bucaramanga",
+      "url": "https://radio.garden/api/ara/content/listen/-3V5TYGt/channel.mp3",
+      "via": "radio.garden",
+      "codename": "-3V5TYGt",
+      "orden": 1051
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 52,
+    "fields": {
+      "titulo": "La FM Cartagena",
+      "cadena": "La FM",
+      "ciudad": "Cartagena",
+      "url": "https://radio.garden/api/ara/content/listen/8Kk8LLjR/channel.mp3",
+      "via": "radio.garden",
+      "codename": "8Kk8LLjR",
+      "orden": 1052
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 53,
+    "fields": {
+      "titulo": "La FM 1150 AM",
+      "cadena": "La FM",
+      "ciudad": "Neiva",
+      "url": "https://radio.garden/api/ara/content/listen/rkmtXNfk/channel.mp3",
+      "via": "radio.garden",
+      "codename": "rkmtXNfk",
+      "orden": 1053
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 54,
+    "fields": {
+      "titulo": "La FM Popayán 1370 AM",
+      "cadena": "La FM",
+      "ciudad": "Popayán",
+      "url": "https://radio.garden/api/ara/content/listen/Rjve500f/channel.mp3",
+      "via": "radio.garden",
+      "codename": "Rjve500f",
+      "orden": 1054
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 55,
+    "fields": {
+      "titulo": "La FM Montería",
+      "cadena": "La FM",
+      "ciudad": "Montería",
+      "url": "https://radio.garden/api/ara/content/listen/cmCKYV-d/channel.mp3",
+      "via": "radio.garden",
+      "codename": "cmCKYV-d",
+      "orden": 1055
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 56,
+    "fields": {
+      "titulo": "Alerta Bogota",
+      "cadena": "Alerta",
+      "ciudad": "Bogotá",
+      "url": "https://radio.garden/api/ara/content/listen/5SF6B4jL/channel.mp3",
+      "via": "radio.garden",
+      "codename": "5SF6B4jL",
+      "orden": 6056
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 57,
+    "fields": {
+      "titulo": "Alerta Calidad 1230 AM",
+      "cadena": "Alerta",
+      "ciudad": "Cali",
+      "url": "https://radio.garden/api/ara/content/listen/8KCpdqoB/channel.mp3",
+      "via": "radio.garden",
+      "codename": "8KCpdqoB",
+      "orden": 6057
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 58,
+    "fields": {
+      "titulo": "Alerta Bucaramanga AM 1180",
+      "cadena": "Alerta",
+      "ciudad": "Bucaramanga",
+      "url": "https://radio.garden/api/ara/content/listen/D0MD0sw4/channel.mp3",
+      "via": "radio.garden",
+      "codename": "D0MD0sw4",
+      "orden": 6058
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 59,
+    "fields": {
+      "titulo": "Alerta Cartagena AM 1270",
+      "cadena": "Alerta",
+      "ciudad": "Cartagena",
+      "url": "https://radio.garden/api/ara/content/listen/OhBFZtlB/channel.mp3",
+      "via": "radio.garden",
+      "codename": "OhBFZtlB",
+      "orden": 6059
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 60,
+    "fields": {
+      "titulo": "Alerta Manizales AM 1450",
+      "cadena": "Alerta",
+      "ciudad": "Manizales",
+      "url": "https://radio.garden/api/ara/content/listen/rc8M2m2m/channel.mp3",
+      "via": "radio.garden",
+      "codename": "rc8M2m2m",
+      "orden": 6060
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 61,
+    "fields": {
+      "titulo": "Alerta Tolima 1420 AM",
+      "cadena": "Alerta",
+      "ciudad": "Ibagué",
+      "url": "https://radio.garden/api/ara/content/listen/GAeaawFF/channel.mp3",
+      "via": "radio.garden",
+      "codename": "GAeaawFF",
+      "orden": 6061
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 62,
+    "fields": {
+      "titulo": "El Sol 97.5 FM",
+      "cadena": "El Sol",
+      "ciudad": "Cali",
+      "url": "https://radio.garden/api/ara/content/listen/p9bm7yP5/channel.mp3",
+      "via": "radio.garden",
+      "codename": "p9bm7yP5",
+      "orden": 7062
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 63,
+    "fields": {
+      "titulo": "El Sol Bogotá",
+      "cadena": "El Sol",
+      "ciudad": "Bogotá",
+      "url": "https://mdstrm.com/audio/632c9d30aa9ace684913b853/icecast.audio",
+      "via": "preset",
+      "codename": "",
+      "orden": 7063
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 64,
+    "fields": {
+      "titulo": "El Sol 107.9 FM",
+      "cadena": "El Sol",
+      "ciudad": "Medellín",
+      "url": "https://radio.garden/api/ara/content/listen/6WR6jdsP/channel.mp3",
+      "via": "radio.garden",
+      "codename": "6WR6jdsP",
+      "orden": 7064
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 65,
+    "fields": {
+      "titulo": "El Sol 99.1 FM",
+      "cadena": "El Sol",
+      "ciudad": "Barranquilla",
+      "url": "https://radio.garden/api/ara/content/listen/XCINbjHW/channel.mp3",
+      "via": "radio.garden",
+      "codename": "XCINbjHW",
+      "orden": 7065
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 66,
+    "fields": {
+      "titulo": "El Sol Cartagena",
+      "cadena": "El Sol",
+      "ciudad": "Cartagena",
+      "url": "https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/icecast.audio",
+      "via": "preset",
+      "codename": "",
+      "orden": 7066
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 67,
+    "fields": {
+      "titulo": "La Mega Bogotá",
+      "cadena": "La Mega",
+      "ciudad": "Bogotá",
+      "url": "https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/icecast.audio",
+      "via": "preset",
+      "codename": "",
+      "orden": 3067
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 68,
+    "fields": {
+      "titulo": "La Mega 92.9 FM",
+      "cadena": "La Mega",
+      "ciudad": "Medellín",
+      "url": "https://radio.garden/api/ara/content/listen/MFLa8I85/channel.mp3",
+      "via": "radio.garden",
+      "codename": "MFLa8I85",
+      "orden": 3068
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 69,
+    "fields": {
+      "titulo": "La Mega 92.5 FM",
+      "cadena": "La Mega",
+      "ciudad": "Cali",
+      "url": "https://radio.garden/api/ara/content/listen/WtOyqHyB/channel.mp3",
+      "via": "radio.garden",
+      "codename": "WtOyqHyB",
+      "orden": 3069
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 70,
+    "fields": {
+      "titulo": "La Mega 93.1 FM",
+      "cadena": "La Mega",
+      "ciudad": "Barranquilla",
+      "url": "https://radio.garden/api/ara/content/listen/9XM4gyYN/channel.mp3",
+      "via": "radio.garden",
+      "codename": "9XM4gyYN",
+      "orden": 3070
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 71,
+    "fields": {
+      "titulo": "La Mega FM 105.2",
+      "cadena": "La Mega",
+      "ciudad": "Pereira",
+      "url": "https://radio.garden/api/ara/content/listen/BOq6FaGQ/channel.mp3",
+      "via": "radio.garden",
+      "codename": "BOq6FaGQ",
+      "orden": 3071
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 72,
+    "fields": {
+      "titulo": "La Mega Armenia",
+      "cadena": "La Mega",
+      "ciudad": "Armenia",
+      "url": "https://mdstrm.com/audio/633d83bf3b07310855f79c40/icecast.audio",
+      "via": "preset",
+      "codename": "",
+      "orden": 3072
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 73,
+    "fields": {
+      "titulo": "La Mega FM 94.5",
+      "cadena": "La Mega",
+      "ciudad": "Cartagena",
+      "url": "https://radio.garden/api/ara/content/listen/dYUIyv6O/channel.mp3",
+      "via": "radio.garden",
+      "codename": "dYUIyv6O",
+      "orden": 3073
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 74,
+    "fields": {
+      "titulo": "La Mega FM 102.5",
+      "cadena": "La Mega",
+      "ciudad": "Bucaramanga",
+      "url": "https://radio.garden/api/ara/content/listen/OTbDYNz-/channel.mp3",
+      "via": "radio.garden",
+      "codename": "OTbDYNz-",
+      "orden": 3074
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 75,
+    "fields": {
+      "titulo": "La Mega FM 99.2",
+      "cadena": "La Mega",
+      "ciudad": "Cúcuta",
+      "url": "https://radio.garden/api/ara/content/listen/ltlkIb3f/channel.mp3",
+      "via": "radio.garden",
+      "codename": "ltlkIb3f",
+      "orden": 3075
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 76,
+    "fields": {
+      "titulo": "La Mega 107.5 FM",
+      "cadena": "La Mega",
+      "ciudad": "Ibagué",
+      "url": "https://radio.garden/api/ara/content/listen/5coGaaK4/channel.mp3",
+      "via": "radio.garden",
+      "codename": "5coGaaK4",
+      "orden": 3076
+    }
+  },
+  {
+    "model": "api.emisora",
+    "pk": 77,
+    "fields": {
+      "titulo": "La Mega 104.3 FM",
+      "cadena": "La Mega",
+      "ciudad": "Villavicencio",
+      "url": "https://radio.garden/api/ara/content/listen/ZwK-48pJ/channel.mp3",
+      "via": "radio.garden",
+      "codename": "ZwK-48pJ",
+      "orden": 3077
+    }
+  }
+]
